@@ -1,0 +1,8 @@
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\bin\Debug\netstandard2.0\RetroPropagacao.deps.json
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\bin\Debug\netstandard2.0\RetroPropagacao.dll
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\bin\Debug\netstandard2.0\RetroPropagacao.pdb
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\obj\Debug\netstandard2.0\RetroPropagacao.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\obj\Debug\netstandard2.0\RetroPropagacao.AssemblyInfoInputs.cache
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\obj\Debug\netstandard2.0\RetroPropagacao.AssemblyInfo.cs
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\obj\Debug\netstandard2.0\RetroPropagacao.dll
+C:\Users\José Antonio\source\repos\BackProp\RetroPropagacao\obj\Debug\netstandard2.0\RetroPropagacao.pdb

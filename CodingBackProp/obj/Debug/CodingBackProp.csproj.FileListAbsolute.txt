@@ -1,0 +1,10 @@
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\CodingBackProp.exe.config
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\CodingBackProp.exe
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\CodingBackProp.pdb
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\RetroPropagacao.dll
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\RetroPropagacao.pdb
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\obj\Debug\CodingBackProp.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\obj\Debug\CodingBackProp.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\obj\Debug\CodingBackProp.exe
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\obj\Debug\CodingBackProp.pdb
+C:\Users\José Antonio\source\repos\BackProp\CodingBackProp\bin\Debug\CSVFileInput\teste.csv
